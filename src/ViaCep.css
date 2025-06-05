@@ -1,0 +1,9 @@
+#cep {
+    width: 100%;
+    background-color: darkgoldenrod;
+}
+#botao {
+    width: 100px;
+    color: lawngreen;
+    border-radius: 8px;
+}
